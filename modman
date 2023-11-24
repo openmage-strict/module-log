@@ -1,0 +1,3 @@
+src/app/code/core/Mage/Log/             app/code/core/Mage/Log/
+src/app/etc/modules/Mage_Log.xml        app/etc/modules/Mage_Log.xml
+src/app/locale/en_US/Mage_Log.csv       app/locale/en_US/Mage_Log.csv

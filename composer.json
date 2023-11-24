@@ -1,0 +1,11 @@
+{
+    "name": "openmage-strict/module-log",
+    "description": "Mage_Log",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "openmage-strict/module-core": "*",
+        "openmage-strict/module-customer": "*"
+    }
+}
