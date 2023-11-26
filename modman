@@ -2,3 +2,4 @@ src/app/code/core/Mage/Log/                                     app/code/core/Ma
 src/app/etc/modules/Mage_Log.xml                                app/etc/modules/Mage_Log.xml
 src/app/locale/en_US/Mage_Log.csv                               app/locale/en_US/Mage_Log.csv
 src/app/locale/en_US/template/email/log_clean_warning.html      app/locale/en_US/template/email/log_clean_warning.html
+src/app/shell/log.php                                           app/app/shell/log.php
